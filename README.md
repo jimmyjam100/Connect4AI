@@ -1,1 +1,1 @@
-# Connect4AI
+This is a connect 4 AI I made freshman year in highschool. This is programed in racket. To play it, run it and then type "(main start-state)" in the command line.
